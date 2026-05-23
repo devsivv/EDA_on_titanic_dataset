@@ -323,7 +323,7 @@ Through this EDA process, multiple statistical patterns and relationships were d
 # How to Run This Project
 
 ```bash
-git clone <https://github.com/devsivv/EDA_on_titanic_dataset>
+git clone https://github.com/devsivv/EDA_on_titanic_dataset
 
 cd Titanic_CampusX
 
